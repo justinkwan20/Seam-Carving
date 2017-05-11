@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=picture
+comment0.target=SeamCarver(edu.princeton.cs.algs4.Picture)
+comment1.params=
+comment1.target=edu.princeton.cs.algs4.Picture\ picture()
+comment10.params=picture
+comment10.target=edu.princeton.cs.algs4.Picture\ transpose(edu.princeton.cs.algs4.Picture)
+comment2.params=
+comment2.target=int\ width()
+comment3.params=
+comment3.target=int\ height()
+comment4.params=x\ y
+comment4.target=double\ energy(int,\ int)
+comment5.params=
+comment5.target=int[]\ findHorizontalSeam()
+comment6.params=
+comment6.target=int[]\ findVerticalSeam()
+comment7.params=seam
+comment7.target=void\ removeHorizontalSeam(int[])
+comment8.params=seam
+comment8.target=void\ removeVerticalSeam(int[])
+comment9.params=x\ y
+comment9.target=int\ wrap(int,\ int)
+numComments=11
